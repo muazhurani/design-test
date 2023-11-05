@@ -1,1 +1,1 @@
-here are som info about the project
+here are som info about the project, new text added
